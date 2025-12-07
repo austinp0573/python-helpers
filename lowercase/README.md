@@ -1,5 +1,5 @@
 # make things lowercase in python
-## nothing fancy, sometimes it's nice to just be able to make everything in a file lowercase
+## nothing fancy, sometimes it's nice to just be able to make everything in a text file lowercase
 
 ## use
 ```python
