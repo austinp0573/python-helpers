@@ -6,7 +6,7 @@ if len(sys.argv) > 1:
     count = int(user_input)
     print(f"Your input was {count}!")
     print("------------------")
-    print("Starting the countdown!")
+    print("Starting the countdown!\n")
 else:
     print("No input provided, default is 60")
     count = 10
